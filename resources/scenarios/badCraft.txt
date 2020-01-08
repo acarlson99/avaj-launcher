@@ -1,0 +1,4 @@
+40
+Helicpoter big 15f 23a 0p
+plane plaen 12 12 12
+Baloon p 3 3 3
